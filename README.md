@@ -1,7 +1,7 @@
 # GPT-2 from Scratch
 
 A clean, from-scratch PyTorch implementation of GPT-2 with full training and inference support.  
-The project is split into two implementations: a base model that faithfully follows the original GPT-2 paper, and a custom modular version for ablation studies (currently under development).
+The project is split into two implementations: a base model that faithfully follows the original GPT-2 paper, and a custom modular version for ablation studies (currently under development)
 
 ---
 
